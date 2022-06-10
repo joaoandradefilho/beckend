@@ -17,7 +17,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Novo",
-    "link": "http://localhost:3000/imoveis/01"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/01"
   },
   { 
     "id": "02",
@@ -36,7 +36,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Destaque",
-    "link": "http://localhost:3000/imoveis/02"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/02"
   },
   { 
     "id": "03",
@@ -55,7 +55,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Novo",
-    "link": "http://localhost:3000/imoveis/03"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/03"
   },
   { 
     "id": "04",
@@ -74,7 +74,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Destaque",
-    "link": "http://localhost:3000/imoveis/04"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/04"
   },
   { 
     "id": "05",
@@ -93,7 +93,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Novo",
-    "link": "http://localhost:3000/imoveis/05"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/05"
   },
   { 
     "id": "06",
@@ -112,7 +112,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Destaque",
-    "link": "http://localhost:3000/imoveis/06"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/06"
   },
   { 
     "id": "07",
@@ -131,7 +131,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Novo",
-    "link": "http://localhost:3000/imoveis/07"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/07"
   },
   { 
     "id": "08",
@@ -150,7 +150,7 @@
     "condMaisIptu": "R$1.137",
     "preco": "R$848.000",
     "button": "Novo",
-    "link": "http://localhost:3000/imoveis/08"
+    "link": "https://imoveis-gamma.vercel.app/imoveis/08"
   }
 
 ]
