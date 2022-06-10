@@ -25,3 +25,5 @@ app.get('/data', (req, res) => {
 app.listen(8080, () => {
   console.log('Servidor está funcionando')
 })
+
+module.exports = app
